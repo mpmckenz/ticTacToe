@@ -1,5 +1,7 @@
 td {
     border: 1px solid blue;
+    width: 90px;
+    height: 90px;
   }
   
   td:hover {
